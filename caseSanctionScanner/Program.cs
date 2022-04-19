@@ -100,8 +100,8 @@ namespace caseSanctionScanner
                 
             }
             sw.WriteLine();
-            //calculates avarega price and writes to report.txt
-            sw.WriteLine("Avarage Price is " + (totalPrice / itemCount));
+            //calculates average price and writes to report.txt
+            sw.WriteLine("Average Price is " + (totalPrice / itemCount));
             sw.Flush();
             //closes stream
             sw.Close();
