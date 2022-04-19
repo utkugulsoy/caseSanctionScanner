@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/caseSanctionScanner.csproj": {}
+  },
+  "projects": {
+    "/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/caseSanctionScanner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/caseSanctionScanner.csproj",
+        "projectName": "caseSanctionScanner",
+        "projectPath": "/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/caseSanctionScanner.csproj",
+        "packagesPath": "/Users/utku/.nuget/packages/",
+        "outputPath": "/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/utku/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.42, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-preview.2.21155.3/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

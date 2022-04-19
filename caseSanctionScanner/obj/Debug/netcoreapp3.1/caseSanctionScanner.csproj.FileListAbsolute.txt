@@ -1,0 +1,15 @@
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/bin/Debug/netcoreapp3.1/caseSanctionScanner.deps.json
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/bin/Debug/netcoreapp3.1/caseSanctionScanner.runtimeconfig.json
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/bin/Debug/netcoreapp3.1/caseSanctionScanner.runtimeconfig.dev.json
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/bin/Debug/netcoreapp3.1/caseSanctionScanner.dll
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/bin/Debug/netcoreapp3.1/caseSanctionScanner.pdb
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/obj/Debug/netcoreapp3.1/caseSanctionScanner.csprojAssemblyReference.cache
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/obj/Debug/netcoreapp3.1/caseSanctionScanner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/obj/Debug/netcoreapp3.1/caseSanctionScanner.AssemblyInfoInputs.cache
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/obj/Debug/netcoreapp3.1/caseSanctionScanner.AssemblyInfo.cs
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/obj/Debug/netcoreapp3.1/caseSanctionScanner.csproj.CoreCompileInputs.cache
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/obj/Debug/netcoreapp3.1/caseSanctionScanner.dll
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/obj/Debug/netcoreapp3.1/caseSanctionScanner.pdb
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/obj/Debug/netcoreapp3.1/caseSanctionScanner.genruntimeconfig.cache
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll
+/Users/utku/Projects/caseSanctionScanner/caseSanctionScanner/obj/Debug/netcoreapp3.1/caseSanctionScanner.csproj.CopyComplete
